@@ -1,12 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Reviews
 ---
+<h1>Reviews</h1>
 
 <ul>
-  {% for review in site.collections %}
+  {% for review in site.reviews %}
     <li>
       <h2><a href="{{ review.url }}">{{ review.title }}</a></h2>
       <h3>{{ review.category }}</h3>
