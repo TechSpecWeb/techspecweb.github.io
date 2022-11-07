@@ -1,6 +1,4 @@
-- name: Etusivu
-  link: /
 - name: Uutiset
-  link: /news.html
+  link: /
 - name: Arvostelut
   link: /reviews.html

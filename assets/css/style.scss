@@ -1,0 +1,33 @@
+---
+---
+
+$main-color: #000;
+
+@import "{{ site.theme }}";
+
+.site-title {
+    color: #FFF;
+
+    &:hover, &:focus {
+        text-decoration: none;
+    }
+}
+
+.news-header {
+    list-style: none;
+    
+    a {
+        color: $main-color;
+    }
+
+    ~li {
+        margin-top: 3.5em;
+    }
+}
+
+.category-tag {
+    color: #FFF;
+    background-color: $main-color;
+    padding: 0.2em 0.4em;
+    border-radius: 10%;
+}

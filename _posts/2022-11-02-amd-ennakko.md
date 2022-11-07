@@ -1,10 +1,10 @@
 ---
 title: AMD julkistaa uudet näytönohjaimensa ja arkkitehtuurinsa together we advance_gaming tapahtumassa
+category: [AMD, näytönohjain, julkistus]
 ---
 Erityisesti prosessoreistaan ja näytönohjaimistaan tunnettu teknologiikkayhtiö AMD on tiedottanut paljastavansa
 ensimmäiset tiedot seuraavan sukupolven näytönohjaimistaan. Tilaisuus pidetään torstaina 3.11.2022, kello 22.00
-Suomen aikaa, livelähetyksenä AMD:n Youtube-kanavalla [LINKKI]. Lähetys on nähtävillä myös jälkikäteen osoitteessa
-https://www.amd.com/en/graphics/radeon-rx-graphics.
+Suomen aikaa, livelähetyksenä AMD:n [Youtube-kanavalla](https://www.youtube.com/watch?v=hhwd6UgGVk4), mistä se on nähtävissä myös jälkikäteen.
 
 AMD:n johtohenkilöt tulevat kertomaan yksityiskohtia yrityksen uudesta RDNA 3 arkkitehtuurista, jonka he lisäävän
 suorituskykyä, energiatehokkuutta ja käytettävyyttä sekä pelikäytössä että sisällöntuotannossa. Kuluttajien 

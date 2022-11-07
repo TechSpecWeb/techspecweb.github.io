@@ -2,14 +2,16 @@
 layout: default
 title: Reviews
 ---
-<h1>Reviews</h1>
+<h1>Arvostelut</h1>
 
 <ul>
   {% for review in site.reviews %}
-    <li>
+    <li class="news-header">
       <h2><a href="{{ review.url }}">{{ review.title }}</a></h2>
-      <h3>{{ review.category }}</h3>
-      <p>{{ review.content | markdownify }}</p>
+      {% for category in review.categories %}
+        <span class="category-tag">{{ category }}</span>
+      {% endfor %}
+      <!-- <p>{{ review.excerpt | markdownify }}</p> -->
     </li>
   {% endfor %}
 </ul>
